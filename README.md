@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a purpose-driven analytics leader with 15+ years of experience across **manufacturing, logistics, supply chain, and enterprise analytics**. As **Deputy General Manager – Enterprise Analytics at Adani Group**, I lead AI/ML initiatives that transform operational complexity into actionable insights.
+I'm a purpose-driven analytics leader with over 15 years of experience spanning manufacturing, logistics, supply chain, and enterprise analytics. I specialize in leading AI and machine learning initiatives that turn complex business operations into data-driven, actionable insights.
 
 ---
 ## 💡 Why I Do What I Do
