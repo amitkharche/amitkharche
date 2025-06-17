@@ -103,10 +103,14 @@ I'm a purpose-driven analytics leader with over 15 years of experience spanning 
 
 ## 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amitkharche) – Daily AI & analytics insights
-- 📰 [Newsletter – *From Data to Decisions*](https://www.linkedin.com/newsletters/from-data-to-decisions-7160413880175802368/)
-- 📄 [Medium](https://medium.com/@amitkharche) – Technical deep-dives
-- 💻 [GitHub Portfolio](https://github.com/amitkharche?tab=repositories) – Explore more projects
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amit-kharche) – Daily AI & analytics insights
+- 📰 [Newsletter – *From Data to Decisions*](https://www.linkedin.com/newsletters/from-data-to-decisions-7309470147277168640/)
+- 📄 [Medium](https://medium.com/@amitkharche14) – Technical deep-dives
+- 💻 [GitHub](https://github.com/amitkharche) – Explore more projects
+
+
+
+
 
 ---
 
