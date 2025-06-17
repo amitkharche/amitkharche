@@ -2,67 +2,111 @@
 
 Welcome to my GitHub!
 
-I'm a purpose-driven analytics leader with 15+ years of experience across **manufacturing, logistics, supply chain, and enterprise analytics**. As **Deputy General Manager – Enterprise Analytics at Adani Group**, I drive large-scale AI/ML initiatives that convert business complexity into measurable impact.
+I'm a purpose-driven analytics leader with 15+ years of experience across **manufacturing, logistics, supply chain, and enterprise analytics**. As **Deputy General Manager – Enterprise Analytics at Adani Group**, I lead AI/ML initiatives that transform operational complexity into actionable insights.
 
 ---
 
 ## 🚀 What I Do
 
-- 🧠 **AI Strategy & Leadership** – Design and deploy end-to-end data science solutions across business functions.
-- 🛠️ **Hands-On Projects** – NLP, Computer Vision, Regression, Classification, Clustering, and Generative AI.
-- 🏭 **Smart Manufacturing AI** – Predictive maintenance, inventory optimization, time series forecasting, and OR modeling.
-- 📊 **Business Storytelling** – Translate ML insights into decisions that matter.
-- 🧑‍🏫 **AI Thought Leadership** – I publish a daily LinkedIn newsletter: **From Data to Decisions**.
+- 🧠 **AI Strategy & Leadership** – Architect and implement enterprise-level machine learning solutions.
+- 🛠️ **Hands-On Project Portfolio** – Covering NLP, Computer Vision, Regression, Classification, Clustering, and Generative AI.
+- 🏭 **Industrial AI Applications** – Inventory optimization, demand forecasting, queue modeling, predictive maintenance.
+- 📊 **Business Storytelling** – Bridging data science and decision-making for measurable impact.
+- ✍️ **AI Thought Leadership** – I write a daily LinkedIn newsletter: **From Data to Decisions**.
 
 ---
 
-## 📂 Featured GitHub Projects
+## 📂 Featured Project Categories
 
-Here’s a glimpse of the variety of projects I’m working on:
+### 📊 Exploratory Data Analysis (EDA)
+- 🔬 `EDA_Air_Quality_Data_amit_kharche`
+- ✈️ `EDA_Airline_Flight-Passenger-Satisfaction_amit_kharche`
+- 🚗 `EDA_Automobile_CO2_Emissions_amit_kharche`
+- 🧠 `EDA_Mental_Health_Data_amit_kharche`
+- 🧬 `EDA_Breast_Cancer_Survival_amit_kharche`
+- 🎥 `EDA_Movies_Data_amit_kharche`
+- 🏏 `EDA_Indian_Premier_League--IPL-_Data_amit_kharche`
+- 🍷 `EDA_Wine_Quality_Data_amit_kharche`
+- ⚽ `EDA_Summer_Olympic_Data_amit_kharche`
+- 🧳 and many more...
 
-### 🔍 Supervised Learning
-- 🔢 `Regression-Projects`: Time series forecasting, sales prediction, and multivariate regression.
-- 🧠 `Classification-Models`: Customer churn, fraud detection, HR attrition models.
+### 🔢 Regression Projects
+- 🔋 `Regression_Energy_Consumption_Prediction_Gradient_Boosting_Streamlit`
+- 🏠 `Regression_ML_model_california_housing_random_forest_streamlit`
+- 🧾 `Regression_CO2_Emissions_Prediction_RadomForest_Streamlit`
+- 📈 `Regression_sales_forecasting_multi_model_RandomForest_XGBoost_CatBoost_Streamlit`
+- 🔮 `Regression_sales_forecasting_prophet_streamlit`
 
-### 🎯 Unsupervised Learning
-- 📊 `Customer-Segmentation-Clustering`: Mall data, PCA, k-means, silhouette analysis.
-- 🧭 `Operations-Research-Optimizers`: Assignment, transportation, EOQ, queue simulations.
+### 🧠 Classification Models
+- ✉️ `classification_email_spam_detection_tfidf_randomforest_streamlit`
+- 👨‍💼 `classification_employee_attrition_prediction_randomforest_streamlit`
+- 💳 `classification_customer_churn_prediction_LogsticReg_RandomForest_XGBoost`
+- 🍷 `Classification_Wine_Quality_KNN_Streamlit`, `Naive_Bayes_Streamlit`
+- 🧑‍✈️ `Classification_Customer-Flight-Satisfaction-Prediction-Amit-Kharche`
+- 🏦 `classification_loan_default_risk_prediction_randomforest_streamlit`
 
-### 💬 Natural Language Processing (NLP)
-- 🤖 `NLP-Pipeline-Projects`: Text classification, sentiment analysis, TF-IDF, BERT.
-- 🧾 `Generative-AI-Chatbot`: LangChain + OpenAI for enterprise knowledge assistance.
+### 🧭 Clustering & Segmentation
+- 🏬 `clustering_mall_customer_segmentation_amit_kharche`
+- 🚦 `clustering_city_traffic_pattern_amit_kharche`
+- 📰 `clustering_news_article_clustering_amit_kharche`
+- 🍷 `Clustering_DBSCAN_wine_quality_amit_kharche`
+- 📦 `clustering_product_segmentation_amit_kharche`
 
-### 🖼️ Computer Vision
-- 👁️ `Image-Classification-Projects`: CNN models on datasets like CIFAR and MNIST.
-- 🧠 `CV-Use-Cases`: Object detection, edge detection, image preprocessing pipelines.
+### 📚 Operations Research (OR) Applications
+- 🧮 `OR_assignment_problem_solver_enterprise_amit_kharche`
+- 🚚 `OR_transportation_optimizer_amit_kharche`
+- 🧾 `OR_inventory_optimization_enterprise_amit_kharche`
+- ⏱️ `OR_queue_simulation_model_enterprise_amit_kharche`
 
-### 🧼 Data Engineering & Utilities
-- 🧽 `Data-Cleaning-Agent`: Automated cleaning with LangChain agent logic.
-- 📋 `EDA-Templates`: Notebooks with prebuilt visualizations and profiling.
+### 💬 NLP Projects
+- 🧠 `NLP_BERT_Multi-Task_Transformers_Project`
+- 🧾 `NLP_topic_modeling_research_papers`
+- 🤖 `NLP_SmartHR_Assistant_Chatbot_Langchain_FAISS_OpenAI`
+- 📝 `NLP_resume_screening_bot`
+- 📖 `NLP_seq2seq_machine_translation_french-to-english`
+- 💬 `NLP_language_models_streamlit_ngram_character_word_level`
+- 💡 `NLP_product_reviews_sentiment_analysis_project`
+
+### 🖼️ Computer Vision Projects
+- 🚗 `CV_vehicle_classification_CNN`
+- 📦 `CV_product_image_categorization_CNN`
+- 🔍 `CV_defect_detection_CNN`
+- 😊 `CV_Facial_Emotion_Recognition_CNN`
+- 🧠 `CV_attention_mechanisms_CNN_ResNet`
+- 🖼️ `CV_image_segmentation_YOLOv8`
+- 🎯 `CV_object_detection_Yolo_SSD_Fast-RCNN_coco_gradcam`
+- 🎨 `CV_generative-models-DcGAN_mnist`
+- 🧠 `CV_transfer_learning`
+
+### 🤖 Autonomous Agents & LangChain Projects
+- ✉️ `agents_email_assistant_manual`, `agents_agentic_email_assistant_langchain_openai`
+- 🧼 `agents_AI_data_cleaning_langchain_openai`, `agents_data_cleaning_agent_manual`
+- 📊 `agents_market_research_bot`
+- 💡 `Agents_autonomous_prompt_assistant`, `agents_autonomous_prompt_assistant_langchain_openai_ml`
 
 ---
 
-## 🧾 My Tech Stack
+## 🧾 Tech Stack
 
 - **Languages**: Python, SQL, Markdown
-- **ML/AI**: scikit-learn, XGBoost, CatBoost, LightGBM, TensorFlow, PyTorch, Keras
-- **NLP/CV**: Hugging Face, NLTK, SpaCy, OpenCV, Transformers
-- **LLMs & Agents**: OpenAI, LangChain, ChromaDB, FAISS
-- **Deployment**: Streamlit, FastAPI, Docker, Azure, GitHub Actions
+- **ML/AI**: Scikit-learn, XGBoost, CatBoost, LightGBM, TensorFlow, PyTorch
+- **NLP & CV**: Hugging Face, NLTK, SpaCy, OpenCV, Transformers
+- **LLMs & Agents**: OpenAI, LangChain, FAISS, ChromaDB
 - **Visualization**: Plotly, Seaborn, Matplotlib, Power BI
+- **Deployment**: Streamlit, FastAPI, Docker, Azure, GitHub Actions
 - **OR Tools**: PuLP, SimPy, NetworkX
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amitkharche) – Follow me for daily AI & ML posts
-- 📰 [Newsletter: *From Data to Decisions*](https://www.linkedin.com/newsletters/from-data-to-decisions-7160413880175802368/) – Practical, daily AI content
-- 📄 [Medium](https://medium.com/@amitkharche) – In-depth case studies and writeups
-- 💼 [GitHub Portfolio](https://github.com/amitkharche?tab=repositories) – Explore my complete project library
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amitkharche) – Daily AI & analytics insights
+- 📰 [Newsletter – *From Data to Decisions*](https://www.linkedin.com/newsletters/from-data-to-decisions-7160413880175802368/)
+- 📄 [Medium](https://medium.com/@amitkharche) – Technical deep-dives
+- 💻 [GitHub Portfolio](https://github.com/amitkharche?tab=repositories) – Explore more projects
 
 ---
 
 > 💡 *“My mission: to build intelligent systems that solve real business problems with simplicity, scalability, and strategic insight.”*
 
-Thanks for stopping by! ⭐
+Thanks for visiting! ⭐
