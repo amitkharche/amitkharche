@@ -15,7 +15,7 @@ I'm a purpose-driven analytics leader with 15+ years of experience across **manu
 
 - 📊 **Business Storytelling** – Because insights alone aren’t enough—translating data into decisions creates true business value.
 
-- ✍️ **AI Thought Leadership** – To share, teach, and inspire through my daily LinkedIn newsletter: *From Data to Decisions*.
+- ✍️ **AI Thought Leadership** – To share, teach, and inspire through my LinkedIn newsletter: *From Data to Decisions*.
 
 ---
 
