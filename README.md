@@ -5,14 +5,17 @@ Welcome to my GitHub!
 I'm a purpose-driven analytics leader with 15+ years of experience across **manufacturing, logistics, supply chain, and enterprise analytics**. As **Deputy General Manager – Enterprise Analytics at Adani Group**, I lead AI/ML initiatives that transform operational complexity into actionable insights.
 
 ---
+## 💡 Why I Do What I Do
 
-## 🚀 What I Do
+- 🧠 **AI Strategy & Leadership** – Because I believe scalable machine learning solutions can drive real transformation across enterprises.
 
-- 🧠 **AI Strategy & Leadership** – Architect and implement enterprise-level machine learning solutions.
-- 🛠️ **Hands-On Project Portfolio** – Covering NLP, Computer Vision, Regression, Classification, Clustering, and Generative AI.
-- 🏭 **Industrial AI Applications** – Inventory optimization, demand forecasting, queue modeling, predictive maintenance.
-- 📊 **Business Storytelling** – Bridging data science and decision-making for measurable impact.
-- ✍️ **AI Thought Leadership** – I write a daily LinkedIn newsletter: **From Data to Decisions**.
+- 🛠️ **Hands-On Project Portfolio** – To explore and demonstrate the practical value of NLP, Computer Vision, and Generative AI in solving diverse real-world problems.
+
+- 🏭 **Industrial AI Applications** – To optimize systems like inventory, demand, and maintenance—unlocking efficiency and competitive edge in manufacturing and supply chains.
+
+- 📊 **Business Storytelling** – Because insights alone aren’t enough—translating data into decisions creates true business value.
+
+- ✍️ **AI Thought Leadership** – To share, teach, and inspire through my daily LinkedIn newsletter: *From Data to Decisions*.
 
 ---
 
