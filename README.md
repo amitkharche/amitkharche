@@ -82,10 +82,13 @@ I'm a purpose-driven analytics leader with over 15 years of experience spanning 
 -  `CV_transfer_learning`
 
 ### 🤖 Autonomous Agents & LangChain Projects
--  `agents_email_assistant_manual`, `agents_agentic_email_assistant_langchain_openai`
--  `agents_AI_data_cleaning_langchain_openai`, `agents_data_cleaning_agent_manual`
+-  `agents_email_assistant_manual`,
+-  `agents_agentic_email_assistant_langchain_openai`
+-  `agents_AI_data_cleaning_langchain_openai`,
+-   `agents_data_cleaning_agent_manual`
 -  `agents_market_research_bot`
--  `Agents_autonomous_prompt_assistant`, `agents_autonomous_prompt_assistant_langchain_openai_ml`
+-  `Agents_autonomous_prompt_assistant`,
+-  `agents_autonomous_prompt_assistant_langchain_openai_ml`
 
 ---
 
